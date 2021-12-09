@@ -1,0 +1,362 @@
+{
+  "@xmlns:n1": 612,
+  "n1:Document": {
+    "n1:pain.006.001.01": {
+      "n1:GrpHdr": {
+        "n1:CreDtTm": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",
+        "n1:MsgId": "ABCDEFGHI",
+        "n1:NbOfTxs": "6",
+        "n1:CdtrAgt": {
+          "n1:FinInstnId": {
+            "n1:BIC": "RWFKJRDTH13",
+            "n1:ClrSysMmbId": {
+              "n1:Id": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+              "n1:Prtry": "ABCDEFGHIJKLMNOPQRS"
+            },
+            "n1:CmbndId": {
+              "n1:BIC": "SJEFAZ69",
+              "n1:ClrSysMmbId": {
+                "n1:Id": "ABCDEFGHIJKLMNOPQRSTUVWX",
+                "n1:Prtry": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+              },
+              "n1:Nm": "ABCDEFGHIJKLMNOPQRSTUV",
+              "n1:PrtryId": {
+                "n1:Id": "ABCDEFG",
+                "n1:Issr": "ABCDEFGHIJKLMNO"
+              },
+              "n1:PstlAdr": {
+                "n1:Ctry": "UH",
+                "n1:AdrLine": null,
+                "n1:AdrTp": "PBOX",
+                "n1:BldgNb": "ABCDEFGH",
+                "n1:CtrySubDvsn": "ABCDEF",
+                "n1:PstCd": "ABCDEFG",
+                "n1:StrtNm": "ABCDEFG",
+                "n1:TwnNm": "ABCDEF"
+              }
+            },
+            "n1:NmAndAdr": {
+              "n1:Nm": "ABCDEFGHIJKLMNOPQRS",
+              "n1:PstlAdr": {
+                "n1:Ctry": "FW",
+                "n1:AdrLine": false,
+                "n1:AdrTp": "PBOX",
+                "n1:BldgNb": "ABCDEFG",
+                "n1:CtrySubDvsn": "ABCDEFGHIJKLMNOPQRSTUV",
+                "n1:PstCd": "ABCDEFGHIJKLM",
+                "n1:StrtNm": "ABCDEFGHIJKLMNOPQRSTUVW",
+                "n1:TwnNm": "ABCDEFGHIJKLMNOPQR"
+              }
+            },
+            "n1:PrtryId": {
+              "n1:Id": "ABCDEFG",
+              "n1:Issr": "ABCDEFGH"
+            }
+          },
+          "n1:BrnchId": {
+            "n1:Id": "ABCDEFG",
+            "n1:Nm": "ABCDEFG",
+            "n1:PstlAdr": {
+              "n1:Ctry": "QH",
+              "n1:AdrLine": [],
+              "n1:AdrTp": "HOME",
+              "n1:BldgNb": "ABCDEFGHI",
+              "n1:CtrySubDvsn": "ABCDEFGHIJKLMNOPQRST",
+              "n1:PstCd": "ABCDEF",
+              "n1:StrtNm": "ABCDEFGHIJ",
+              "n1:TwnNm": "ABCDEFG"
+            }
+          }
+        },
+        "n1:CtrlSum": 766.25,
+        "n1:DbtrAgt": {
+          "n1:FinInstnId": {
+            "n1:BIC": "MEBCONB1K8X",
+            "n1:ClrSysMmbId": {
+              "n1:Id": "ABCDEFGHIJKL",
+              "n1:Prtry": "ABCD"
+            },
+            "n1:CmbndId": {
+              "n1:BIC": "EPXXPI3W030",
+              "n1:ClrSysMmbId": {
+                "n1:Id": "ABCDEFGHIJ",
+                "n1:Prtry": "ABCDEFGHIJKLMNOPQR"
+              },
+              "n1:Nm": "ABCDEF",
+              "n1:PrtryId": {
+                "n1:Id": "ABCDEFGHIJKL",
+                "n1:Issr": "ABCDEFGHIJKLMN"
+              },
+              "n1:PstlAdr": {
+                "n1:Ctry": "QZ",
+                "n1:AdrLine": null,
+                "n1:AdrTp": "PBOX",
+                "n1:BldgNb": "ABCDEFGHIJK",
+                "n1:CtrySubDvsn": "ABCDEFGHIJKL",
+                "n1:PstCd": "ABCDEFGHIJKLM",
+                "n1:StrtNm": "ABCDEFGHIJKLM",
+                "n1:TwnNm": "ABCDEFGHIJKLM"
+              }
+            },
+            "n1:NmAndAdr": {
+              "n1:Nm": "ABCDEFG",
+              "n1:PstlAdr": {
+                "n1:Ctry": "ER",
+                "n1:AdrLine": true,
+                "n1:AdrTp": "HOME",
+                "n1:BldgNb": "ABCDEFGHIJ",
+                "n1:CtrySubDvsn": "ABCDEFG",
+                "n1:PstCd": "ABCDEFG",
+                "n1:StrtNm": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",
+                "n1:TwnNm": "ABCDEFGHIJKLMNOPQRSTU"
+              }
+            },
+            "n1:PrtryId": {
+              "n1:Id": "ABCDEFGHIJKLMNOPQRST",
+              "n1:Issr": "ABCDEFGHIJKLMNOPQR"
+            }
+          },
+          "n1:BrnchId": {
+            "n1:Id": "ABCDEFGHIJKLMNOPQRS",
+            "n1:Nm": "ABCDEFGHIJKLMNOPQR",
+            "n1:PstlAdr": {
+              "n1:Ctry": "FQ",
+              "n1:AdrLine": 848,
+              "n1:AdrTp": "MLTO",
+              "n1:BldgNb": "ABCDEFGH",
+              "n1:CtrySubDvsn": "ABCDEFGHIJKLMNO",
+              "n1:PstCd": "ABCDEFGHI",
+              "n1:StrtNm": "ABCDEFGHIJKLMNOPQRSTUVW",
+              "n1:TwnNm": "ABCDEFGHIJKLMNOP"
+            }
+          }
+        },
+        "n1:FwdgAgt": {
+          "n1:FinInstnId": {
+            "n1:BIC": "ILKIJI3MP29",
+            "n1:ClrSysMmbId": {
+              "n1:Id": "ABCDEFGHIJKLMNOP",
+              "n1:Prtry": "ABCDEFGHIJKL"
+            },
+            "n1:CmbndId": {
+              "n1:BIC": "FSIQVSZ010L",
+              "n1:ClrSysMmbId": {
+                "n1:Id": "ABCDEFGHIJKLMNOPQRS",
+                "n1:Prtry": "ABCDEFGHIJ"
+              },
+              "n1:Nm": "ABCD",
+              "n1:PrtryId": {
+                "n1:Id": "ABCDEF",
+                "n1:Issr": "ABCDEF"
+              },
+              "n1:PstlAdr": {
+                "n1:Ctry": "FG",
+                "n1:AdrLine": false,
+                "n1:AdrTp": "DLVY",
+                "n1:BldgNb": "ABCDEFGHI",
+                "n1:CtrySubDvsn": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+                "n1:PstCd": "ABCD",
+                "n1:StrtNm": "ABCDEFGHIJKLMNOPQRSTUV",
+                "n1:TwnNm": "ABCDEFGHIJKLMNOPQRSTUVWX"
+              }
+            },
+            "n1:NmAndAdr": {
+              "n1:Nm": "ABCD",
+              "n1:PstlAdr": {
+                "n1:Ctry": "AS",
+                "n1:AdrLine": 149,
+                "n1:AdrTp": "BIZZ",
+                "n1:BldgNb": "ABCDEFGHIJKL",
+                "n1:CtrySubDvsn": "ABCDEFGHIJKLMN",
+                "n1:PstCd": "ABCDEFGHIJKLMN",
+                "n1:StrtNm": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+                "n1:TwnNm": "ABCDEFG"
+              }
+            },
+            "n1:PrtryId": {
+              "n1:Id": "ABCDEFGHIJKLMN",
+              "n1:Issr": "ABCDEFGHIJKLMNOPQRSTUV"
+            }
+          },
+          "n1:BrnchId": {
+            "n1:Id": "ABCDEFGHIJKLMNO",
+            "n1:Nm": "ABCDEFGHIJKL",
+            "n1:PstlAdr": {
+              "n1:Ctry": "TL",
+              "n1:AdrLine": -62.5,
+              "n1:AdrTp": "HOME",
+              "n1:BldgNb": "ABCDEFGHIJK",
+              "n1:CtrySubDvsn": "ABCDEFGHI",
+              "n1:PstCd": "ABCDEFGHIJKLMN",
+              "n1:StrtNm": "ABCDEFGHIJKLMN",
+              "n1:TwnNm": "ABCDEFGHIJ"
+            }
+          }
+        },
+        "n1:GrpCxl": false,
+        "n1:InitgPty": {
+          "n1:CtryOfRes": "QR",
+          "n1:Id": {
+            "n1:OrgId": {
+              "n1:BEI": "SQBAKQPJ4QO",
+              "n1:BIC": "HHTHCD60",
+              "n1:BkPtyId": "ABCDEFGHIJKLMNOPQRSTU",
+              "n1:DUNS": "619285488",
+              "n1:EANGLN": "1541328902476",
+              "n1:IBEI": "CGLNT9RVW5",
+              "n1:PrtryId": {
+                "n1:Id": "ABCDEFGHIJKLMNOPQRSTUV",
+                "n1:Issr": "ABCDEFGHIJKLMNOPQR"
+              },
+              "n1:TaxIdNb": "ABCDEF",
+              "n1:USCHU": "CH311554"
+            },
+            "n1:PrvtId": {}
+          },
+          "n1:Nm": "ABCDEFGH",
+          "n1:PstlAdr": {
+            "n1:Ctry": "ZP",
+            "n1:AdrLine": true,
+            "n1:AdrTp": "DLVY",
+            "n1:BldgNb": "ABCDEFGHIJK",
+            "n1:CtrySubDvsn": "ABCDEFGHIJKLMNOPQRST",
+            "n1:PstCd": "ABCDEFGHIJK",
+            "n1:StrtNm": "ABCDEFGHIJK",
+            "n1:TwnNm": "ABCDEFGHIJKLMNOPQRSTU"
+          }
+        },
+        "n1:InstdAgt": {
+          "n1:FinInstnId": {
+            "n1:BIC": "CJXQWN76",
+            "n1:ClrSysMmbId": {
+              "n1:Id": "ABCDEFGHIJKLMNOPQRSTUV",
+              "n1:Prtry": "ABCDEFGH"
+            },
+            "n1:CmbndId": {
+              "n1:BIC": "CSMASTR191B",
+              "n1:ClrSysMmbId": {
+                "n1:Id": "ABCDEFGHIJKLMN",
+                "n1:Prtry": "ABCDEFGHIJKLMNO"
+              },
+              "n1:Nm": "ABCDEFGHIJKLMNOPQRS",
+              "n1:PrtryId": {
+                "n1:Id": "ABCDE",
+                "n1:Issr": "ABCDEFGHIJKLMNOPQ"
+              },
+              "n1:PstlAdr": {
+                "n1:Ctry": "VL",
+                "n1:AdrLine": 211,
+                "n1:AdrTp": "BIZZ",
+                "n1:BldgNb": "ABCD",
+                "n1:CtrySubDvsn": "ABCDEFGHIJKLMNO",
+                "n1:PstCd": "ABCDEFGHI",
+                "n1:StrtNm": "ABCDEFGH",
+                "n1:TwnNm": "ABCDEFGHIJK"
+              }
+            },
+            "n1:NmAndAdr": {
+              "n1:Nm": "ABCDEFGHIJ",
+              "n1:PstlAdr": {
+                "n1:Ctry": "LR",
+                "n1:AdrLine": 290,
+                "n1:AdrTp": "DLVY",
+                "n1:BldgNb": "ABCDEFGHIJ",
+                "n1:CtrySubDvsn": "ABCDEFGHIJKLMNOPQRSTUV",
+                "n1:PstCd": "ABCDEFG",
+                "n1:StrtNm": "ABCDEFGHIJKLMNOPQR",
+                "n1:TwnNm": "ABCDEFGHIJKLM"
+              }
+            },
+            "n1:PrtryId": {
+              "n1:Id": "ABCDEFGHIJKL",
+              "n1:Issr": "ABCD"
+            }
+          },
+          "n1:BrnchId": {
+            "n1:Id": "ABCDEFGHI",
+            "n1:Nm": "ABCDEFGHIJKLMNOPQRS",
+            "n1:PstlAdr": {
+              "n1:Ctry": "OY",
+              "n1:AdrLine": true,
+              "n1:AdrTp": "HOME",
+              "n1:BldgNb": "ABCDE",
+              "n1:CtrySubDvsn": "ABCDEFGHI",
+              "n1:PstCd": "ABCDEFGHIJKLM",
+              "n1:StrtNm": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+              "n1:TwnNm": "ABCDE"
+            }
+          }
+        },
+        "n1:InstgAgt": {
+          "n1:FinInstnId": {
+            "n1:BIC": "PLATAR7WR8A",
+            "n1:ClrSysMmbId": {
+              "n1:Id": "ABCDEFGHIJKLMN",
+              "n1:Prtry": "ABCDEFGH"
+            },
+            "n1:CmbndId": {
+              "n1:BIC": "BIORQAD4A29",
+              "n1:ClrSysMmbId": {
+                "n1:Id": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+                "n1:Prtry": "ABCDE"
+              },
+              "n1:Nm": "ABCDEFGHIJKLMNOPQRS",
+              "n1:PrtryId": {
+                "n1:Id": "ABCDEFGHIJKLMNOPQRST",
+                "n1:Issr": "ABCDEFGHIJKLMNOPQRSTUVW"
+              },
+              "n1:PstlAdr": {
+                "n1:Ctry": "IG",
+                "n1:AdrLine": "ABCDEFGHIJKL",
+                "n1:AdrTp": "DLVY",
+                "n1:BldgNb": "ABCDEFGHIJKLM",
+                "n1:CtrySubDvsn": "ABCDEFGHI",
+                "n1:PstCd": "ABCD",
+                "n1:StrtNm": "ABCDEF",
+                "n1:TwnNm": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+              }
+            },
+            "n1:NmAndAdr": {
+              "n1:Nm": "ABCDEFGHIJKLMNOPQRSTUV",
+              "n1:PstlAdr": {
+                "n1:Ctry": "GP",
+                "n1:AdrLine": 904,
+                "n1:AdrTp": "PBOX",
+                "n1:BldgNb": "ABCDEFGHIJKL",
+                "n1:CtrySubDvsn": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",
+                "n1:PstCd": "ABCDEFGHI",
+                "n1:StrtNm": "ABCDEFGHIJKLMNOPQR",
+                "n1:TwnNm": "ABCDE"
+              }
+            },
+            "n1:PrtryId": {
+              "n1:Id": "ABCDEFGHIJKL",
+              "n1:Issr": "ABCDEFGHIJKLMNOPQRSTUVW"
+            }
+          },
+          "n1:BrnchId": {
+            "n1:Id": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",
+            "n1:Nm": "ABCDEFGHIJKLMNOPQRSTUVWXYZA",
+            "n1:PstlAdr": {
+              "n1:Ctry": "MA",
+              "n1:AdrLine": "ABCDEFGHIJKLMNOPQR",
+              "n1:AdrTp": "DLVY",
+              "n1:BldgNb": "ABCDEFGHIJKL",
+              "n1:CtrySubDvsn": "ABCDEFGHIJKLMN",
+              "n1:PstCd": "ABCDE",
+              "n1:StrtNm": "ABCDEFGHIJKLMNOPQRS",
+              "n1:TwnNm": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB"
+            }
+          }
+        }
+      },
+      "n1:OrgnlGrpInf": {
+        "n1:OrgnlMsgId": "ABCD",
+        "n1:OrgnlMsgNmId": "ABCDEF",
+        "n1:CxlRsnInf": [],
+        "n1:OrgnlCreDtTm": "ABCDE"
+      },
+      "n1:TxInf": -21.75
+    }
+  }
+}
